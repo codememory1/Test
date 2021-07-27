@@ -1,0 +1,12 @@
+{
+    "name": "codememory/test",
+    "description": "query builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danil",
+            "email": "kostynd1@gmail.com"
+        }
+    ],
+    "require": {}
+}
